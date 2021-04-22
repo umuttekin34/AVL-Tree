@@ -1,2 +1,1 @@
-# AVL-tree
-Sakarya University Data Structures Project
+This example is an AVL tree project that collects employees depending on the companies, there are two trees, inner tree keeps name of company and number of employees, there is an outer tree that holds the employees depending on these tree nodes.
